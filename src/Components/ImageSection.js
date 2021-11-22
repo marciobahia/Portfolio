@@ -10,11 +10,22 @@ function ImageSection() {
                 <img src={resume} alt=""/>
             </div>
             <div className="right-content">
-                <h4>I am <span>Lorem Ipsum</span></h4>
+                <h4>I am <span>Márcio Sella Bahia</span></h4>
                 <p className="paragraph">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, natus quas vero enim 
-                    praesentium delectus est id fugiat ab libero adipisci recusandae at maxime veritatis! 
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Excepturi, nesciunt.
+                I’m a full stack developer that loves everything about coding. I currently study ReactJs, Node.js, React Native, Python and PHP. 
+                <p>
+                I am attending the third semester of the Faculty of Analysis and Systems Development at Estácio de Sá. ).
+                </p>
+                <p className="paragraph">
+                I like to create beautiful interfaces to provide the user with a great experience. To create prototypes I use Figma, but I also know how to work with Adobe XD and I use Photoshop CC for edit images.
+                </p>
+                <p>
+                I have also worked with C#, SQL Server, PHP, MySQL, Python and others. I like project architecture, writing clean code and applying good practices. 
+                </p>
+
+                <p className="paragraph">
+                The only certainty I have is that learning is an endless road and I want to stay on it. So, I love technology, coffee and applying knowledge to solve problems, create solutions and impact lives.
+                </p>
                     
                 </p>
                 <div className="about-info">
@@ -27,11 +38,11 @@ function ImageSection() {
                         <p>Service</p>
                     </div>
                     <div className="info">
-                        <p>: Lorem Ipsum</p>
-                        <p>: 36</p>
-                        <p>: Spainsh </p>
-                        <p>: Spanish, French, English </p>
-                        <p>: London, United Kingdom</p>
+                        <p>: Márcio Sella Bahia</p>
+                        <p>: 45</p>
+                        <p>: Brazilian </p>
+                        <p>: Portuguese, English </p>
+                        <p>: Brazil</p>
                         <p>: Freelance</p>
                     </div>
                 </div>
