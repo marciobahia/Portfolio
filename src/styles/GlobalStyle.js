@@ -19,16 +19,14 @@ const GlobalStyle = createGlobalStyle`
     --scrollbar-bg-color: #383838;
     --scrollbar-thump-color: #6b6b6b;
     --scrollbar-track-color: #383838;
-
 } */
-
 .light-theme{
     --primary-color: #007bff;
     --primary-color-light: #057FFF;
     --secondary-color: #ff7675;
     --background-dark-color: #F1F1F1;
     --background-dark-grey: #e4e4e4;
-    --border-color: #cbced8;
+    --border-color: #none;
     --background-light-color: #F1F1F1;
     --background-light-color-2: rgba(3,127,255,.3);
     --white-color: #151515;
@@ -46,7 +44,7 @@ const GlobalStyle = createGlobalStyle`
     --secondary-color: #6c757d;
     --background-dark-color: #10121A;
     --background-dark-grey: #191D2B;
-    --border-color: #2e344e;
+    --border-color: none;
     --background-light-color: #F1F1F1;
     --background-light-color-2: rgba(3,127,255,.3);
     --white-color: #FFF;
@@ -58,7 +56,6 @@ const GlobalStyle = createGlobalStyle`
     --scrollbar-thump-color: #6b6b6b;
     --scrollbar-track-color: #383838;
 }
-
 *{
     margin: 0;
     padding: 0;
@@ -69,13 +66,11 @@ const GlobalStyle = createGlobalStyle`
     font-size: 1.1rem;
     
 }
-
 body{
     background-color: var(--background-dark-color);
     color: var(--font-light-color);
     transition: all .4s ease-in-out;
 }
-
 body::-webkit-scrollbar{
     width: 9px;
     background-color: #383838;
@@ -88,7 +83,6 @@ body::-webkit-scrollbar-track{
     border-radius: 10px;
     background-color: #383838;
 }
-
 textarea{
     max-width: 100%;
 }
@@ -98,7 +92,6 @@ a{
     font-size: inherit;
     font-size: 1rem;
 }
-
 h1{
     font-size: 4rem;
     color: var(--white-color);
@@ -112,7 +105,6 @@ h1{
         font-size: 3rem
     }
 }
-
 span{
     color: var(--primary-color);
 }
@@ -121,13 +113,10 @@ h6{
     font-size: 1.2rem;
     padding-bottom: .6rem;
 }
-
 //Utilities
 .u-margin-bottom{
     margin-bottom: 4rem;
 }
-
-
 //Floting Toggler
 .light-dark-mode{
     position: fixed;
@@ -147,7 +136,6 @@ h6{
       color: var(--white-color);
     }
   }
-
   //Nav Toggler
   .ham-burger-menu{
       position: absolute;
@@ -159,7 +147,6 @@ h6{
           font-size: 3rem;
       }
     }
-
     .nav-toggle{
         transform: translateX(0);
         z-index: 20;
@@ -169,12 +156,7 @@ h6{
         display: block;
     }
   }
-
-
 //Global Media Queries
-
-
-
 `;
 
 export default GlobalStyle;
