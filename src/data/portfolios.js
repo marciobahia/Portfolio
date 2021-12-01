@@ -6,11 +6,10 @@ import img5 from '../img/portImages/aircnc.jpg';
 import img6 from '../img/portImages/gameplay.jpg';
 import img7 from '../img/portImages/letmeask.jpg';
 
-
 const portfolios = [
     {
         id: 1,
-        category: 'CSS',
+        category: 'React.js',
         image: css1,
         link1: 'https://github.com/marciobahia/Instadevs/blob/master/README.md',
         link2: 'https://www.google.com',
@@ -19,7 +18,7 @@ const portfolios = [
     },
     {
         id: 2,
-        category: 'Python',
+        category: 'React Native',
         image: img2,
         link1: 'https://github.com/marciobahia/Tindev',
         link2: 'https://www.google.com',
@@ -28,7 +27,7 @@ const portfolios = [
     },
     {
         id: 3,
-        category: 'Javascript',
+        category: 'Node.js',
         image: img3,
         link1: 'https://github.com/marciobahia/Hero',
         link2: 'https://www.google.com',
@@ -37,7 +36,7 @@ const portfolios = [
     },
     {
         id: 4,
-        category: 'Animation',
+        category: 'Axios' ,
         image: img4,
         link1: 'https://github.com/marciobahia/Ecoleta',
         link2: 'https://www.google.com',
@@ -46,7 +45,7 @@ const portfolios = [
     },
     {
         id: 5,
-        category: 'Animation',
+        category: 'Expo',
         image: img5,
         link1: 'https://github.com/marciobahia/Aircnc',
         link2: 'https://www.google.com',
@@ -55,7 +54,7 @@ const portfolios = [
     },
     {
         id: 6,
-        category: 'React JS',
+        category: 'FareBase',
         image: img6,
         link1: 'https://github.com/marciobahia/Gameplay',
         link2: 'https://www.google.com',
@@ -64,7 +63,7 @@ const portfolios = [
     },
     {
         id: 7,
-        category: 'CSS',
+        category: 'Typescript',
         image: img7,
         link1: 'https://github.com/marciobahia/Letmeask',
         link2: 'https://www.google.com',

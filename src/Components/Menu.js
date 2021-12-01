@@ -111,7 +111,7 @@ const MenuItemStyled = styled.div`
                     li{
                         transition: all .4s ease-in-out;
                         &:hover{
-                            background-color: var(--primary-color);
+                            background-color: #5F4687; 
                         }
                         a{
                             display: flex;

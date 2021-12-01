@@ -14,7 +14,7 @@ function HomePage() {
             <div className="typography">
                 <h1>Hi, I'm <span>Márcio Sella Bahia</span></h1>
                 <p>
-                I have a degree in Systems Analysis and Development, i develop websites, mobile apps and APIs.
+                I'm graduated in Systems Analysis and Development by Estácio de Sá University, i develop websites, mobile apps and APIs with React.js, React Native and Node.js.
                 </p>
                 <div className="icons">
                     <a href="https://www.facebook.com/marcio.sellabahia/" className="icon i-facebook">

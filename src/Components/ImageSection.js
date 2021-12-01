@@ -2,32 +2,46 @@ import React from 'react'
 import styled from 'styled-components';
 import resume from '../img/resume.jpg';
 import PrimaryButton from './PrimaryButton';
+import resumeM from '../img/resumeM.jpg';
 
 function ImageSection() {
     return (
         <ImageSectionStyled>
             <div className="left-content">
                 <img src={resume} alt=""/>
-            </div>
-            <div className="right-content">
-                <h4>I am <span>Márcio Sella Bahia</span></h4>
+                <div className="right-content">
+                <h4>I am <span>Full Stack Developer</span></h4>
                 <p className="paragraph">
-                I’m a full stack developer that loves everything about coding. I currently study ReactJs, Node.js, React Native, Python and PHP. 
+                That loves everything about coding. I currently study ReactJs, Node.js, React Native, Python and PHP. 
                 <p>
-                I am attending the third semester of the Faculty of Analysis and Systems Development at Estácio de Sá. ).
+                I'm in the fourth semester of the Faculty of Analysis and Systems Development at Estácio de Sá.
                 </p>
+                
                 <p className="paragraph">
-                I like to create beautiful interfaces to provide the user with a great experience. To create prototypes I use Figma, but I also know how to work with Adobe XD and I use Photoshop CC for edit images.
+                I like to create beautiful interfaces to provide the user with a great experience. 
+                <p></p>
+                I can create responsive websites that fit any screen and IOS and Android Native Apps.
                 </p>
-                <p>
-                I have also worked with C#, SQL Server, PHP, MySQL, Python and others. I like project architecture, writing clean code and applying good practices. 
-                </p>
+                </p>  
+                </div>    
 
-                <p className="paragraph">
+                <div className="left-content"> 
+                <img src={resumeM} alt=""/>
+                <p>
+                I've created several React.js and React Native projects using Node.js in Backeand. 
+                <p></p>
+                I can create and manipulate databases like MongoDb and MSql. 
+                <p></p>
+                </p>
+                 </div>
+                 
+            <p className="paragraph">
                 The only certainty I have is that learning is an endless road and I want to stay on it. So, I love technology, coffee and applying knowledge to solve problems, create solutions and impact lives.
                 </p>
-                    
-                </p>
+            </div>      
+            
+            <div className="right-content">
+              
                 <div className="about-info">
                     <div className="info-title">
                         <p>Full Name</p>
@@ -49,6 +63,7 @@ function ImageSection() {
                 <PrimaryButton title={'Download Cv'} />
             </div>
         </ImageSectionStyled>
+        
     )
 }
 
@@ -64,13 +79,16 @@ const ImageSectionStyled = styled.div`
     }
     .left-content{
         width: 100%;
+        margin-left:none;
+      
         img{
-            width: 95%;
+            width: 90%;
             object-fit: cover;
         }
     }
     .right-content{
         width: 100%;
+        
         h4{
             font-size: 2rem;
             color: var(--white-color);

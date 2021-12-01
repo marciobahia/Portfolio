@@ -9,14 +9,14 @@ function Particle() {
               params={{
                 particles: {
                   number:{
-                    value:109,
+                    value:200,
                     density:{
                       enable: true,
                       value_area: 1200
                     }
                   },
                   color:{
-                    value: '#636e72'
+                    value: '#007bff'
                   },
                   shape:{
                     type: 'circle',
@@ -24,7 +24,7 @@ function Particle() {
                       width: 0
                     },
                     polygon:{
-                      nb_sides: 6
+                      nb_sides: 8
                     }
                   },
                   line_linked: {
@@ -41,7 +41,7 @@ function Particle() {
                   move:{
                     enable: true,
                     random: true,
-                    speed: .6,
+                    speed: .8,
                     attract:{
                       rotateX: 600,
                       rotateY: 1200
