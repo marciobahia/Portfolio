@@ -12,9 +12,9 @@ function HomePage() {
                 <Particle />
             </div>
             <div className="typography">
-                <h1>Hi, I'm <span>Márcio Sella Bahia</span></h1>
+                <h1>Olá! Me chamo <span>Márcio Sella </span></h1>
                 <p>
-                I'm graduated in Systems Analysis and Development by Estácio de Sá University, i develop websites, mobile apps and APIs with React.js, React Native and Node.js.
+                Sou graduando em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá, desenvolvo Web Sites modernos e responsivos, Aplicativos e APIs com React.js, React Native e Node.js.
                 </p>
                 <div className="icons">
                     <a href="https://www.facebook.com/marcio.sellabahia/" className="icon i-facebook">

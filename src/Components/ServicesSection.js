@@ -3,32 +3,32 @@ import styled from 'styled-components';
 import {InnerLayout} from '../styles/Layouts';
 import Title from '../Components/Title';
 import ServiceCard from '../Components/ServiceCard';
-import design from '../img/design.svg';
-import intelligence from '../img/intelligence.svg';
-import gamedev from '../img/game-dev.svg';
+import sites from '../img/web.png';
+import app from '../img/app.png';
+import banco from '../img/banco.png';
 
 function ServicesSection() {
     return (
         <InnerLayout>
             <ServicesSectionStyled>
-                <Title title={'Services'} span={'services'} />
+                <Title title={'Serviços'} span={'serviços'} />
                 <div className="services">
                     <ServiceCard 
-                        image={design} 
-                        title={'Web Design'} 
-                        paragraph={'Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem tenetur ratione quod.'}
+                        image={sites} 
+                        title={'Web Sites'} 
+                        paragraph={'Desenvolvemos Sites totalmente responsivos e adaptáveis a qualquer dispositivo.'}
                     />
                     <div className="mid-card">
                         <ServiceCard 
-                            image={intelligence} 
-                            title={'Artificial Intelligence'} 
-                            paragraph={'Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem tenetur ratione quod.'}
+                            image={app} 
+                            title={'Aplicativos'} 
+                            paragraph={'Desenvolvemos Aplicativos Nativos para Android e IOS.'}
                         />
                     </div>
                     <ServiceCard 
-                        image={gamedev} 
-                        title={'Game Development'} 
-                        paragraph={'Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem tenetur ratione quod.'}
+                        image={banco} 
+                        title={'Backend'} 
+                        paragraph={'Criamos a regra de negócio da sua aplicação extruturando o banco de dados para a integração de webservices.'}
                     />
                 </div>
             </ServicesSectionStyled>

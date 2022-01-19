@@ -5,7 +5,7 @@ import portfolios from '../data/portfolios';
 import Menu from '../Components/Menu';
 import Button from '../Components/Button';
 
-const allButtons = ['All', ...new Set(portfolios.map(item => item.category))]
+const allButtons = ['Tudo', ...new Set(portfolios.map(item => item.category))]
 
 function PortfoliosPage() {
     const [menuItem, setMenuItems] = useState(portfolios);
@@ -14,7 +14,7 @@ function PortfoliosPage() {
 
     const filter = (button) => {
 
-        if(button === 'All'){
+        if(button === 'Tudo'){
             setMenuItems(portfolios);
             return;
         }

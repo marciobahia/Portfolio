@@ -13,8 +13,8 @@ function Skills() {
                     <div className="skills">
                         <ProgressBar 
                             title={'HTML5'}
-                            width={'70%'}
-                            text={'70%'}
+                            width={'99%'}
+                            text={'99%'}
                         />
                         <ProgressBar 
                             title={'CSS3'}
@@ -22,29 +22,29 @@ function Skills() {
                             text={'90%'}
                         />
                         <ProgressBar 
-                            title={'JAVASCRIPT'}
-                            width={'85%'}
-                            text={'85%'}
+                            title={'React.js'}
+                            width={'55%'}
+                            text={'55%'}
                         />
                         <ProgressBar 
-                            title={'JAVA'}
+                            title={'React Native'}
                             width={'60%'}
                             text={'60%'}
                         />
                         <ProgressBar 
                             title={'PYTHON'}
-                            width={'95%'}
-                            text={'95%'}
+                            width={'65%'}
+                            text={'65%'}
                         />
                         <ProgressBar 
-                            title={'React JS'}
-                            width={'75%'}
-                            text={'75%'}
+                            title={'PHP'}
+                            width={'55%'}
+                            text={'55%'}
                         />
                         <ProgressBar 
-                            title={'UNITY'}
-                            width={'75%'}
-                            text={'75%'}
+                            title={'Node.js'}
+                            width={'55%'}
+                            text={'55%'}
                         />
                     </div>
                 </InnerLayout>

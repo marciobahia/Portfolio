@@ -6,21 +6,21 @@ import blog4 from  '../img/blogs/blog4.svg';
 const blogs = [
     {
         id: 1,
-        title: 'How To Work from Home',
+        title: 'Como trabalhar em casa.',
         date: '01',
         month: 'April',
         image: blog1
     },
     {
         id: 2,
-        title: 'How To Use SEO Efficiently',
+        title: 'Como usar SEO de forma eficiente.',
         date: '01',
         month: 'April',
         image: blog2
     },
     {
         id: 3,
-        title: 'How to choose a programming Language',
+        title: 'Como escolher uma linguagem de programação.',
         date: '01',
         month: 'April',
         image: blog3,
@@ -28,14 +28,14 @@ const blogs = [
     },
     {
         id: 4,
-        title: 'How To Tse SEO Efficiently',
+        title: 'Como se tornar um FullStack',
         date: '01',
         month: 'April',
         image: blog4
     },
     {
         id: 5,
-        title: 'How To Tse SEO Efficiently',
+        title: 'Inteligência Artificial',
         date: '01',
         month: 'April',
         image: blog4

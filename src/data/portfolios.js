@@ -14,7 +14,7 @@ const portfolios = [
         link1: 'https://github.com/marciobahia/Instadevs/blob/master/README.md',
         link2: 'https://www.google.com',
         title: 'InstaDev ',
-        text: 'Recreating instagram feed with React.js, ReactNative, Mongoose, Axios and Node.js.'
+        text: 'Recriando o feed do instagram com React.js, ReactNative, Mongoose, Axios e Node.js.'
     },
     {
         id: 2,
@@ -23,7 +23,7 @@ const portfolios = [
         link1: 'https://github.com/marciobahia/Tindev',
         link2: 'https://www.google.com',
         title: 'Tindev',
-        text: 'Tindev is an Application inspired by Tinder but focused on Developers.'
+        text: 'O Tindev é um Aplicativo inspirado no Tinder, mas focado em Desenvolvedores.'
     },
     {
         id: 3,
@@ -32,7 +32,7 @@ const portfolios = [
         link1: 'https://github.com/marciobahia/Hero',
         link2: 'https://www.google.com',
         title: 'Hero',
-        text: 'Hero is an Application that aims to Connect people who can help financially in NGOs, where an NGO publishes through its Web interface'
+        text: 'Hero é um Aplicativo que visa Conectar pessoas que podem ajudar financeiramente em ONGs, onde uma ONG publica através de sua interface Web.'
     },
     {
         id: 4,
@@ -41,7 +41,7 @@ const portfolios = [
         link1: 'https://github.com/marciobahia/Ecoleta',
         link2: 'https://www.google.com',
         title: 'Ecoleta',
-        text: 'Application that aims to connect companies that collect waste there are people who aim to dispose of this waste correctly.'
+        text: 'Aplicativo que visa conectar empresas que coletam resíduos há pessoas que visam destinar esses resíduos de forma correta.'
     },
     {
         id: 5,
@@ -50,16 +50,16 @@ const portfolios = [
         link1: 'https://github.com/marciobahia/Aircnc',
         link2: 'https://www.google.com',
         title: 'AirCnc',
-        text: 'Aircnc is an Application focused Developers. The system allows the user to sign up with email and which technology is of interest to them.'
+        text: 'Aircnc é um desenvolvedor focado em aplicativos. O sistema permite que o usuário cadastre-se com e-mail e qual tecnologia é de seu interesse.'
     },
     {
         id: 6,
-        category: 'FareBase',
+        category: 'FireBase',
         image: img6,
         link1: 'https://github.com/marciobahia/Gameplay',
         link2: 'https://www.google.com',
         title: 'Gameplay',
-        text: 'Gameplay is a project where game lovers can schedule matches with other users'
+        text: 'Gameplay é um projeto onde os amantes do jogo podem agendar partidas com outros usuários.'
     },
     {
         id: 7,
@@ -68,7 +68,7 @@ const portfolios = [
         link1: 'https://github.com/marciobahia/Letmeask',
         link2: 'https://www.google.com',
         title: 'LetMeAsk',
-        text: 'Let Me Ask is a platform built to let you gather questions from your viewers during your stream and let them vote for which are the best questions for you to answer.'
+        text: 'Let Me Ask é uma plataforma criada para permitir que você colete perguntas de seus espectadores durante sua transmissão e deixe-os votar em quais são as melhores perguntas para você responder.'
     }
 ]
 
