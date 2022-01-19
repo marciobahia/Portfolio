@@ -10,17 +10,17 @@ function ImageSection() {
             <div className="left-content">
                 <img src={resume} alt=""/>
                 <div className="right-content">
-                <h4>I am <span>Full Stack Developer</span></h4>
+                <h4> <span>Desenvolvedor Full Stack</span></h4>
                 <p className="paragraph">
-                That loves everything about coding. I currently study ReactJs, Node.js, React Native, Python and PHP. 
+                Atualmente estudo React.js, Node.js, React Native, Python e PHP.  
                 <p>
-                I'm in the fourth semester of the Faculty of Analysis and Systems Development at Estácio de Sá.
+                Estou no quarto semestre da Faculdade de Análise e Desenvolvimento de Sistemas da Estácio de Sá.  
                 </p>
                 
                 <p className="paragraph">
-                I like to create beautiful interfaces to provide the user with a great experience. 
+                Gosto de criar interfaces bonitas para proporcionar uma ótima experiência ao usuário.
                 <p></p>
-                I can create responsive websites that fit any screen and IOS and Android Native Apps.
+                Posso criar sites responsivos que se adaptam a qualquer tela e aplicativos nativos IOS e Android.
                 </p>
                 </p>  
                 </div>    
@@ -28,15 +28,14 @@ function ImageSection() {
                 <div className="left-content"> 
                 <img src={resumeM} alt=""/>
                 <p>
-                I've created several React.js and React Native projects using Node.js in Backeand. 
+                Criei vários projetos React.js e React Native usando Node.js no Backeand.
                 <p></p>
-                I can create and manipulate databases like MongoDb and MSql. 
-                <p></p>
+                Posso criar e manipular bancos de dados como MongoDb e MYSql. 
                 </p>
                  </div>
                  
             <p className="paragraph">
-                The only certainty I have is that learning is an endless road and I want to stay on it. So, I love technology, coffee and applying knowledge to solve problems, create solutions and impact lives.
+                A única certeza que tenho é que aprender é um caminho sem fim e quero continuar nele. Então, adoro tecnologia, café e aplicar conhecimento para resolver problemas, criar soluções e impactar vidas.
                 </p>
             </div>      
             
@@ -44,19 +43,19 @@ function ImageSection() {
               
                 <div className="about-info">
                     <div className="info-title">
-                        <p>Full Name</p>
-                        <p>Age</p>
-                        <p>Nationality </p>
-                        <p>Languages </p>
-                        <p>Location</p>
-                        <p>Service</p>
+                        <p>Nome</p>
+                        <p>Idade</p>
+                        <p>Nacionalidade </p>
+                        <p>Linguas </p>
+                        <p>Localização</p>
+                        <p>Serviços</p>
                     </div>
                     <div className="info">
                         <p>: Márcio Sella Bahia</p>
                         <p>: 45</p>
-                        <p>: Brazilian </p>
+                        <p>: Brasileiro </p>
                         <p>: Portuguese, English </p>
-                        <p>: Brazil</p>
+                        <p>: Brasil </p>
                         <p>: Freelance</p>
                     </div>
                 </div>
