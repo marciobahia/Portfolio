@@ -12,10 +12,10 @@ function Resume() {
     const school = <SchoolIcon />
     return (
         <ResumeStyled>
-            <Title title={'Resume'} span={'resume'} />
+            <Title title={'Experiência'} span={'Experiência'} />
             <InnerLayout>
                 <div className="small-title">
-                    <SmallTitle icon={briefcase} title={'Working Experience'} />
+                    <SmallTitle icon={briefcase} title={'Experiência Profissional'} />
                 </div>
                 <div className="resume-content">
                     <ResumeItem 
