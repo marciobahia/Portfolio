@@ -14,7 +14,7 @@ function ImageSection() {
                 <p className="paragraph">
                 Atualmente estudo React.js, Node.js, React Native, Python, Java e PHP.  
                 <p>
-                Estou no quinto semestre da Faculdade de Análise e Desenvolvimento de Sistemas da Estácio de Sá.  
+                Estou no ultimo semestre da Graduação em Análise e Desenvolvimento de Sistemas da Universidade Estácio de Sá.  
                 </p>
                 
                 <p className="paragraph">

@@ -12,7 +12,7 @@ function HomePage() {
                 <Particle />
             </div>
             <div className="typography">
-                <h1>Olá! Me chamo <span>Márcio Sella </span></h1>
+                <h1>Olá! Me chamo <span>Márcio Sella</span></h1>
                 <p>
                 Sou graduando em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá, desenvolvo Web Sites modernos e responsivos, Aplicativos e APIs com React.js, React Native e Node.js.
                 </p>
