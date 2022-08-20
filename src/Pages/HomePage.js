@@ -13,8 +13,12 @@ function HomePage() {
             </div>
             <div className="typography">
                 <h1>Olá! Me chamo <span>Márcio Sella</span></h1>
+                <p>Sou graduado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá, desenvolvo Web Sites modernos e responsivos com React.js, Aplicativos Nativos Android e IOS com React Native e APIs utilizando Node.js. 
+                </p>
+                <p>Também desenvolvo em PHP, C, Java e Python. Domino Técnicas de TDD, Modelagem de Sistema com UML, Computação em Nuvem e Web Service em Linux entre outras Skills. 
                 <p>
-                Sou graduando em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá, desenvolvo Web Sites modernos e responsivos, Aplicativos e APIs com React.js, React Native e Node.js.
+                   Entre em Contato e me deixe criar uma solução para seu problema de forma rápida e intuitiva, utilizando as mais modernas técnicas e tecnologias de Desenvolvimento de Software. 
+                </p>    
                 </p>
                 <div className="icons">
                     <a href="https://www.facebook.com/marcio.sellabahia/" className="icon i-facebook">
