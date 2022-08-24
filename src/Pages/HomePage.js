@@ -13,10 +13,10 @@ function HomePage() {
             </div>
             <div className="typography">
                 <h1>Olá! Me chamo <span>Márcio Sella</span></h1>
-                <p>Sou graduado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá, desenvolvo Web Sites modernos e responsivos com React.js, Aplicativos Nativos Android e IOS com React Native e APIs utilizando Node.js. 
-                </p>
-                <p>Também desenvolvo em PHP, C, Java e Python. Domino Técnicas de TDD, Modelagem de Sistema com UML, Computação em Nuvem e Web Service em Linux entre outras Skills. 
-                <p>
+                <p>Sou Graduado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá, desenvolvo Web Sites modernos e responsivos com <span>React.js</span>, Aplicativos Nativos Android e IOS com <span>React Native</span> e APIs utilizando <span>Node.js</span>. 
+                </p><br></br>
+                <p>Também desenvolvo em <span>PHP</span>, <span>C</span>, <span>Java</span> e <span>Python</span>. Domino Técnicas de Modelagem de Sistema com UML, Computação em Nuvem e Web Service em <span>Linux</span> entre outras Skills.
+                <p><br></br>
                    Entre em Contato e me deixe criar uma solução para seu problema de forma rápida e intuitiva, utilizando as mais modernas técnicas e tecnologias de Desenvolvimento de Software. 
                 </p>    
                 </p>
@@ -46,7 +46,7 @@ const HomePageStyled = styled.header`
         top: 50%;
         left: 50%;
         transform: translate(-50%, -50%);
-        text-align: center;
+        text-align: border;
         width: 80%;
 
         .icons{
