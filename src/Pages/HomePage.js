@@ -13,13 +13,14 @@ function HomePage() {
                 <Particle />
             </div>
             <div className="typography">
-                <h1>Olá! Me chamo <span>Márcio Bahia</span></h1><br></br>
+                <h1>Olá! Me chamo <span>Márcio Bahia</span></h1>
+                <br></br>
                 <p>Sou Graduado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá, 
-                desenvolvo Web Sites modernos e responsivos, aplicativos nativos Android e IOS com os FrameWorks de JavaScript React.js no Frontend, 
-                React Native no Mobile e Node.js no Backend.
+                desenvolvo Web Sites modernos e responsivos, aplicativos nativos Android e IOS com os FrameWorks de JavaScript <span>React.js</span> no Frontend, 
+                <span> React Native</span> no Mobile e <span>Node.js</span> no Backend.
             </p>
             <br></br>
-            <p>Também desenvolvo em Python, Java, PHP e C, domino as técnicas de Web Designer, 
+            <p>Também desenvolvo em <span>Python</span>, <span>Java</span>, <span>PHP</span> e <span>C</span>, domino as técnicas de Web Designer, 
                 Computação em Nuvem e Web Services, Big Data em Python, Padrões de Projeto de Software com Java, Cloud, IOT e Indústria 4.0.    
             </p> 
             <br></br> 
