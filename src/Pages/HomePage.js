@@ -60,7 +60,7 @@ const HomePageStyled = styled.header`
             display: flex;
             justify-content: center;
             margin-top: 2rem;
-            margin-bottom: 2rem;
+            margin-bottom: 3rem;
         
             .icon{
                 border: 2px solid var(--border-color);
