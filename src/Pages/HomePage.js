@@ -11,7 +11,7 @@ function HomePage() {
         <HomePageStyled>
             <div className="particle-con">
                 <Particle />
-            </div>
+            </div>            
             <div className="typography">
                 <h1>Olá! Me chamo <span>Márcio Bahia</span></h1>
                 <br></br>
@@ -49,7 +49,7 @@ const HomePageStyled = styled.header`
    
     .typography{
         position: absolute;
-        top: 50%;
+        top: 60%;
         left: 50%;
         transform: translate(-50%, -50%);
         text-align: border;
