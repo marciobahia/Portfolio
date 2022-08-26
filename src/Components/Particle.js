@@ -16,7 +16,7 @@ function Particle() {
                     }
                   },
                   color:{
-                    value: '#007bff'
+                    value: '#078bff'
                   },
                   shape:{
                     type: 'circle',

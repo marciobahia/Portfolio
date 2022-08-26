@@ -93,10 +93,10 @@ a{
     font-size: 1rem;
 }
 h1{
-    font-size: 4rem;
+    font-size: 3rem;
     color: var(--white-color);
     span{
-        font-size: 4rem;
+        font-size: 3rem;
         @media screen and (max-width: 502px){
             font-size: 3rem
         }

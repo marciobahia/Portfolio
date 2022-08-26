@@ -13,7 +13,7 @@ function HomePage() {
                 <Particle />
             </div>            
             <div className="typography">
-                <h1>Olá! Me chamo <span>Márcio Bahia</span></h1>
+                <h1>Olá! <br></br>Me chamo <span>Márcio Bahia</span></h1>
                 <br></br>
                 <p>Sou Graduado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá, 
                 desenvolvo Web Sites modernos e responsivos, aplicativos nativos Android e IOS com os FrameWorks de JavaScript <span>React.js</span> no Frontend, 
@@ -37,7 +37,7 @@ function HomePage() {
                         <YoutubeIcon />
                     </a>
                 </div>
-            </div>
+            </div><br></br>
         </HomePageStyled>
     )
 }
@@ -51,6 +51,7 @@ const HomePageStyled = styled.header`
         position: absolute;
         top: 65%;
         left: 50%;
+
         transform: translate(-50%, -50%);
         text-align: border;
         width: 80%;
@@ -58,7 +59,9 @@ const HomePageStyled = styled.header`
         .icons{
             display: flex;
             justify-content: center;
-            margin-top: 1rem;
+            margin-top: 2rem;
+            margin-bottom: 2rem;
+        
             .icon{
                 border: 2px solid var(--border-color);
                 display: flex;
@@ -68,7 +71,7 @@ const HomePageStyled = styled.header`
                 transition: all .4s ease-in-out;
                 cursor: pointer;
                 &:hover{
-                    border: 2px solid var(--primary-color);
+                    border: 10px solid var(--primary-color);
                     color: var(--primary-color);
                 }
                 &:not(:last-child){
@@ -81,13 +84,13 @@ const HomePageStyled = styled.header`
 
             .i-youtube{
                 &:hover{
-                    border: 2px solid red;
+                    border: 10px solid red;
                     color: red;
                 }
             }
             .i-github{
                 &:hover{
-                    border: 2px solid #5F4687;
+                    border: 10px solid #5F4687;
                     color: #5F4687;
                 }
             }
