@@ -20,8 +20,8 @@ function Resume() {
                 <div className="resume-content">
                     <ResumeItem 
                         year={'2006 - 2015'} 
-                        title={'Inspetor Penitenciário'}
-                        subTitle={'Secretaria de Estado da Justiça - ES'}
+                        title={''}
+                        subTitle={''}
                         text={''} 
                     />
                     
