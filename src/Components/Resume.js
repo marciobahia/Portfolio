@@ -19,7 +19,7 @@ function Resume() {
                 </div>
                 <div className="resume-content">
                     <ResumeItem 
-                        year={'2006 - 2015'} 
+                        year={''} 
                         title={''}
                         subTitle={''}
                         text={''} 
