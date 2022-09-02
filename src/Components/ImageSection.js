@@ -3,7 +3,8 @@ import styled from 'styled-components';
 import resume from '../img/resume.jpg';
 import PrimaryButton from './PrimaryButton';
 import resumeM from '../img/resumeM.jpg';
-
+import resumeD from '../img/resumeD.jpg';
+import resumeE from '../img/resumeE.jpg';
 function ImageSection() {
     return (
         <ImageSectionStyled>
@@ -15,8 +16,8 @@ function ImageSection() {
                 Atualmente estudo React.js, Node.js, React Native, Python, Java e PHP.  
                 <p>
                 Estou no ultimo semestre da Graduação em Análise e Desenvolvimento de Sistemas da Universidade Estácio de Sá.  
-                </p>
-                
+                </p><br></br>
+                <img src={resumeM} alt=""/>
                 <p className="paragraph">
                 Gosto de criar interfaces bonitas para proporcionar uma ótima experiência ao usuário.
                 <p></p>
@@ -26,15 +27,18 @@ function ImageSection() {
                 </div>    
 
                 <div className="left-content"> 
-                <img src={resumeM} alt=""/>
+                <img src={resumeD} alt=""/>
                 <p>
+                <br></br>
                 Criei vários projetos React.js e React Native usando Node.js no Backeand.
                 <p></p>
                 Posso criar e manipular bancos de dados como MongoDb e MYSql. 
                 </p>
-                 </div>
-                 
+                </div>
+                <br></br>
+                <img src={resumeE} alt=""/>
             <p className="paragraph">
+                <br></br>
                 A única certeza que tenho é que aprender é um caminho sem fim e quero continuar nele. Então, adoro tecnologia, café e aplicar conhecimento para resolver problemas, criar soluções e impactar vidas.
                 </p>
             </div>      

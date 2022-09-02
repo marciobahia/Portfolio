@@ -5,15 +5,21 @@ import FacebookIcon from '@material-ui/icons/Facebook';
 import GithubIcon from '@material-ui/icons/GitHub';
 import YoutubeIcon from '@material-ui/icons/YouTube';
 import Particle from '../Components/Particle';
+import resumeG from '../img/resumeG.jpg';
+
 
 function HomePage() {
     return (
         <HomePageStyled>
             <div className="particle-con">
                 <Particle />
+              
             </div>            
-            <div className="typography">
-                <h1>Olá! <br></br>Me chamo <span>Márcio Bahia</span></h1>
+            <div className="typography"><br></br>
+            <img src={resumeG} alt=""/>
+                <div><br></br>
+                    </div>
+                    <h1>Olá! <br></br>Me chamo <span>Márcio Sella </span></h1>
                 <br></br>
                 <p>Sou Graduado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá, 
                 desenvolvo Web Sites modernos e responsivos, aplicativos nativos Android e IOS com os FrameWorks de JavaScript <span>React.js</span> no Frontend, 
