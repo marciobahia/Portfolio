@@ -50,7 +50,7 @@ function HomePage() {
 
 const HomePageStyled = styled.header`
     width: 100%;
-    height: 120vh;
+    height: 100vh;
     position: relative;
    
     .typography{
