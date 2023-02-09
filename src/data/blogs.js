@@ -11,7 +11,7 @@ const blogs = [
         date: '01',
         month: 'April',
         image: blog1,
-        link: 'https://www.linkedin.com/in/márcio-sella-bahia-9b73bb19b/',
+        link: './homeoffice.js',
         
     },
     {

@@ -4,7 +4,7 @@ import blog3 from  '../img/blogs/dev.jpg';
 import blog4 from  '../img/blogs/dev2.jpg';
 import blog5 from  '../img/blogs/ai.jpg';
 
-const blogs = [
+const HomeOffice = [
     {
         id: 1,
         title: 'Como trabalhar em casa.',
@@ -43,4 +43,4 @@ const blogs = [
     }
 ]
 
-export default blogs;
+export default HomeOffice;
