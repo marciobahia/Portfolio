@@ -1,7 +1,9 @@
-import blog1 from  '../img/blogs/blog1.svg';
+import blog1 from  '../img/blogs/casa.jpg';
 import blog3 from  '../img/blogs/blog3.svg';
-import blog2 from  '../img/blogs/blog2.svg';
+import blog2 from  '../img/blogs/SEO.png';
 import blog4 from  '../img/blogs/blog4.svg';
+import blog5 from  '../img/blogs/blog5.svg';
+
 
 const blogs = [
     {
@@ -38,7 +40,7 @@ const blogs = [
         title: 'Inteligência Artificial',
         date: '01',
         month: 'April',
-        image: blog4
+        image: blog5
     }
 ]
 
