@@ -11,7 +11,7 @@ const blogs = [
         date: '01',
         month: 'April',
         image: blog1,
-        link: '../Pages/HomeOffice.js',
+        link: 'https://www.linkedin.com/in/márcio-sella-bahia-9b73bb19b/',
         
     },
     {
@@ -19,7 +19,8 @@ const blogs = [
         title: 'Como usar SEO de forma eficiente.',
         date: '01',
         month: 'April',
-        image: blog2
+        image: blog2,
+        link: 'https://www.linkedin.com/in/márcio-sella-bahia-9b73bb19b/',
     },
     {
         id: 3,
@@ -27,21 +28,23 @@ const blogs = [
         date: '01',
         month: 'April',
         image: blog3,
-        link: './homeOffice.js'
+        link: 'https://www.linkedin.com/in/márcio-sella-bahia-9b73bb19b/',
     },
     {
         id: 4,
         title: 'Como se tornar um FullStack',
         date: '01',
         month: 'April',
-        image: blog4
+        image: blog4,
+        link: 'https://www.linkedin.com/in/márcio-sella-bahia-9b73bb19b/',
     },
     {
         id: 5,
         title: 'Inteligência Artificial',
         date: '01',
         month: 'April',
-        image: blog5
+        image: blog5,
+        link: 'https://www.linkedin.com/in/márcio-sella-bahia-9b73bb19b/',
     }
 ]
 
