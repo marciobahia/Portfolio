@@ -1,9 +1,8 @@
 import blog1 from  '../img/blogs/casa.jpg';
-import blog3 from  '../img/blogs/blog3.svg';
-import blog2 from  '../img/blogs/SEO.png';
-import blog4 from  '../img/blogs/blog4.svg';
-import blog5 from  '../img/blogs/blog5.svg';
-
+import blog2 from  '../img/blogs/seo.jpg';
+import blog3 from  '../img/blogs/dev.jpg';
+import blog4 from  '../img/blogs/dev2.jpg';
+import blog5 from  '../img/blogs/ai.jpg';
 
 const blogs = [
     {
@@ -11,7 +10,9 @@ const blogs = [
         title: 'Como trabalhar em casa.',
         date: '01',
         month: 'April',
-        image: blog1
+        image: blog1,
+        link: '../Pages/HomeOffice.js',
+        
     },
     {
         id: 2,
@@ -26,7 +27,7 @@ const blogs = [
         date: '01',
         month: 'April',
         image: blog3,
-        link: 'https://www.google.co.uk/'
+        link: './homeOffice.js'
     },
     {
         id: 4,

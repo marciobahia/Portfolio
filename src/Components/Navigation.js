@@ -30,7 +30,7 @@ function Navigation() {
                 </li>
             </ul>
             <footer className="footer">
-                <p>Copyright © 2022 - <b>Márcio Bahia</b></p>
+                <p>Copyright © 2023 - <b>Márcio Bahia</b></p>
             </footer>
         </NavigationStyled>
     )

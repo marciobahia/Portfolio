@@ -14,7 +14,7 @@ import MenuIcon from '@material-ui/icons/Menu';
 import { Route, Switch as Switching } from "react-router";
 import Switch from '@material-ui/core/Switch'
 import { IconButton } from "@material-ui/core";
-
+import HomeOffice from "./Pages/HomeOffice";
 
 function App() {
   const [theme, setTheme] = useState('dark-theme');
@@ -89,6 +89,9 @@ function App() {
             </Route>
             <Route path="/contact" exact>
               <ContactPage />
+            </Route>
+            <Route path="./Pages/HomeOffice.js" exact>
+              <HomeOffice />
             </Route>
           </Switching>
 
