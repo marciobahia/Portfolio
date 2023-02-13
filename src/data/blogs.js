@@ -11,7 +11,7 @@ const blogs = [
         date: '01',
         month: 'April',
         image: blog1,
-        link: './homeoffice.js',
+        link: '../Pages/ArtigosBlog.js',
         
     },
     {
