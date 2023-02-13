@@ -6,6 +6,7 @@ import {MainLayout} from '../styles/Layouts';
 import ServicesSection from '../Components/ServicesSection';
 import ReviewsSection from '../Components/ReviewsSetion';
 
+
 function AboutPage() {
     return (
         <MainLayout>
@@ -15,8 +16,10 @@ function AboutPage() {
                 <ServicesSection />
                 <ReviewsSection />
             </AboutStyled >
+            
         </MainLayout>
     )
+    
 }
 
 const AboutStyled = styled.section`

@@ -70,6 +70,7 @@ function App() {
             <div className="line-3"></div>
             <div className="line-4"></div>
           </div>
+          
 
           <Switching>
             <Route path="/" exact>

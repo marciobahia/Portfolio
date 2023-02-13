@@ -65,6 +65,7 @@ function ImageSection() {
                 </div>
                 <PrimaryButton title={'Download Cv'} />
             </div>
+            
         </ImageSectionStyled>
         
     )
