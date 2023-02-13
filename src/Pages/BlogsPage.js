@@ -4,7 +4,7 @@ import Title from '../Components/Title';
 import blogs from '../data/blogs';
 import {MainLayout, InnerLayout} from '../styles/Layouts';
 
-function BlogsPage() {
+function Artigo1() {
     return (
         <MainLayout>
             <BlogsStyled>
@@ -74,4 +74,4 @@ const BlogsStyled = styled.div`
     }
 `;
 
-export default BlogsPage
+export default Artigo1

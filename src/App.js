@@ -91,7 +91,7 @@ function App() {
             <Route path="/contact" exact>
               <ContactPage />
             </Route>
-            <Route path="./Pages/HomeOffice.js" exact>
+            <Route path="/src/Pages/Artigos1.js" exact>
               <HomeOffice />
             </Route>
           </Switching>

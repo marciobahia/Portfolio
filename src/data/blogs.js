@@ -4,6 +4,8 @@ import blog3 from  '../img/blogs/dev.jpg';
 import blog4 from  '../img/blogs/dev2.jpg';
 import blog5 from  '../img/blogs/ai.jpg';
 
+
+
 const blogs = [
     {
         id: 1,
@@ -11,7 +13,7 @@ const blogs = [
         date: '01',
         month: 'April',
         image: blog1,
-        link: '../Pages/ArtigosBlog.js',
+        link: "/artigo1",
         
     },
     {
