@@ -21,7 +21,7 @@ function HomePage() {
                     </div>
                     <h1>Olá! <br></br>Me chamo <span>Márcio Sella </span></h1>
                 <br></br>
-                <p>Sou Graduado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá, 
+                <p>Sou Graduado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá. Cursando Pós-Graduação em Tecnologias e Desenvolvimento Web e Mobile na FAESA - Faculdade de Administração Espírito-santense,
                 desenvolvo Web Sites modernos e responsivos, aplicativos nativos Android e IOS com os FrameWorks de JavaScript <span>React.js</span> no Frontend, 
                 <span> React Native</span> no Mobile e <span>Node.js</span> no Backend.
             </p>
