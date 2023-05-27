@@ -23,18 +23,18 @@ function HomePage() {
 
                 <br></br>
 
-                <p>Sou Graduado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá. 
+                <p>Sou Graduado em Análise e Desenvolvimento de Sistemas pela <span>Universidade Estácio de Sá</span>. 
 
                  <br></br><br></br>
 
-                 Cursando Pós-Graduação em Tecnologias e Desenvolvimento Web e Mobile no Centro Universitário FAESA.
+                 Cursando Pós-Graduação em Tecnologias e Desenvolvimento Web e Mobile no <span>Centro Universitário FAESA</span>.
                  <br></br><br></br>
                 Desenvolvo Web Sites modernos e responsivos, aplicativos nativos Android e IOS com os FrameWorks de JavaScript <span>React.js</span> no Frontend, 
                 <span> React Native</span> no Mobile e <span>Node.js</span> no Backend.
             </p>
             <br></br>
             <p>Também desenvolvo em <span>Python</span>, <span>Java</span>, <span>PHP</span> e <span>C</span>, domino as técnicas de Web Designer, 
-                Computação em Nuvem e Web Services, Big Data em Python, Padrões de Projeto de Software com Java, Cloud, IOT e Indústria 4.0.    
+                Computação em Nuvem e Web Services em <span>Linux</span>, Big Data em Python, Padrões de Projeto de Software com Java, Cloud, IOT e Indústria 4.0.    
             </p> 
             <br></br> 
             <p>Entre em Contato e me deixe criar uma solução para seu problema de forma rápida e intuitiva, utilizando as mais modernas técnicas e tecnologias de Desenvolvimento de Software.  
