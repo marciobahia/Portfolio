@@ -15,7 +15,7 @@ function ArtigoPage() {
                 <p className="paragraph">
                 Atualmente estudo React.js, Node.js, React Native, Python, Java e PHP.  
                 <p>
-                Estou no ultimo semestre da Graduação em Análise e Desenvolvimento de Sistemas da Universidade Estácio de Sá.  
+                Sou Graduado em Análise e Desenvolvimento de Sistemas da Universidade Estácio de Sá.  
                 </p><br></br>
                 <img src={resumeM} alt=""/>
                 <p className="paragraph">

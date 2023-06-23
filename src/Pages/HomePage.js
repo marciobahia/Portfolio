@@ -15,7 +15,8 @@ function HomePage() {
                 <Particle />
               
             </div>            
-            <div className="typography"><br></br>
+            <div className="typography"><br></br><br></br>
+            <br></br><br></br><br></br><br></br>
             <img src={resumeG} alt=""/>
                 <div><br></br>
                     </div>
