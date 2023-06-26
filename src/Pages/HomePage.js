@@ -28,7 +28,7 @@ function HomePage() {
 
                  <br></br><br></br>
 
-                 Cursando Pós-Graduação em Tecnologias e Desenvolvimento Web e Mobile no <span>Centro Universitário FAESA</span>.
+                 Pós-Graduando em Tecnologias e Desenvolvimento Web e Mobile no <span>Centro Universitário FAESA</span>.
                  <br></br><br></br>
                 Desenvolvo Web Sites modernos e responsivos, aplicativos nativos Android e IOS com os FrameWorks de JavaScript <span>React.js</span> no Frontend, 
                 <span> React Native</span> no Mobile e <span>Node.js</span> no Backend.
