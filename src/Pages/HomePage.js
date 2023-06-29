@@ -30,8 +30,8 @@ function HomePage() {
 
                  Pós-Graduando em Tecnologias e Desenvolvimento Web e Mobile no <span>Centro Universitário FAESA</span>.
                  <br></br><br></br>
-                Desenvolvo Web Sites modernos e responsivos, aplicativos nativos Android e IOS com os FrameWorks de JavaScript <span>React.js</span> no Frontend, 
-                <span> React Native</span> no Mobile e <span>Node.js</span> no Backend.
+                Desenvolvo Web Sites modernos e responsivos, com os FrameWorks de JavaScript <span>React.js</span> no Frontend, 
+                <span> React Native</span> no Mobile e <span>Node.js</span> no Backend. Sou capaz de projetar e desenvolver aplicativos <span>Android</span> e <span>IOS</span>.
             </p>
             <br></br>
             <p>Também desenvolvo em <span>Python</span>, <span>Java</span>, <span>PHP</span> e <span>C</span>, domino as técnicas de Web Designer, 
