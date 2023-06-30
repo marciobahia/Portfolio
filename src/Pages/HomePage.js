@@ -4,6 +4,7 @@ import styled from 'styled-components';
 import FacebookIcon from '@material-ui/icons/Facebook';
 import GithubIcon from '@material-ui/icons/GitHub';
 import YoutubeIcon from '@material-ui/icons/YouTube';
+import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import Particle from '../Components/Particle';
 import resumeG from '../img/resumeG.jpg';
 
@@ -50,6 +51,12 @@ function HomePage() {
                     <a href="https://www.youtube.com/channel/UCEiJTj5NODNuBPSPAgJCtcg" className="icon i-youtube">
                         <YoutubeIcon />
                     </a>
+
+                    <a href="https://www.linkedin.com/in/márcio-sella-bahia-9b73bb19b/" className="icon i-import LinkedInIcon from '@mui/icons-material/linkedIn';
+">
+                        <LinkedInIcon />
+                    </a>
+                    
                 </div>
             </div><br></br>
         </HomePageStyled>
@@ -101,6 +108,12 @@ const HomePageStyled = styled.header`
                     border: 10px solid red;
                     color: red;
                 }
+
+            {.i-linkedin{
+                &:hover{
+                    border: 10px solid red;
+                    color: red;
+                }}
             }
             .i-github{
                 &:hover{

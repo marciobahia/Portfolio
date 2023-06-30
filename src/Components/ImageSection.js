@@ -13,9 +13,8 @@ function ImageSection() {
                 <div className="right-content">
                 <h4> <span>Desenvolvedor Full Stack</span></h4>
                 <p className="paragraph">
-                Atualmente estudo React.js, Node.js, React Native, Python, Java e PHP.  
+                Sou Graduado em Análise e Desenvolvimento de Sistemas e Póps-graduado em Desenvolvimento Full Stack. <br></br>Atualmente estudo React.js, Node.js, React Native, Python.  
                 <p>
-                Estou no ultimo semestre da Graduação em Análise e Desenvolvimento de Sistemas da Universidade Estácio de Sá.  
                 </p><br></br>
                 <img src={resumeM} alt=""/>
                 <p className="paragraph">
