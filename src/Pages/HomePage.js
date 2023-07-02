@@ -25,11 +25,11 @@ function HomePage() {
 
                 <br></br>
 
-                <p>Sou Graduado em Análise e Desenvolvimento de Sistemas pela <span>Universidade Estácio de Sá</span>. 
+                <p>Sou Graduado em <span>Análise e Desenvolvimento de Sistemas</span> pela Universidade Estácio de Sá. 
 
                  <br></br><br></br>
 
-                 Pós-Graduando em Tecnologias e Desenvolvimento Web e Mobile no <span>Centro Universitário FAESA</span>.
+                 Pós-Graduando em <span>Desenvolvimento Fullstack</span> também pela Universidade Estácio de Sá.
                  <br></br><br></br>
                 Desenvolvo Web Sites modernos e responsivos, com os FrameWorks de JavaScript <span>React.js</span> no Frontend, 
                 <span> React Native</span> no Mobile e <span>Node.js</span> no Backend. Sou capaz de projetar e desenvolver aplicativos <span>Android</span> e <span>IOS</span>.

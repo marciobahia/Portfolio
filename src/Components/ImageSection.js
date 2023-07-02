@@ -2,8 +2,6 @@ import React from 'react'
 import styled from 'styled-components';
 import resume from '../img/resume.jpg';
 import PrimaryButton from './PrimaryButton';
-import resumeM from '../img/resumeM.jpg';
-import resumeD from '../img/resumeD.jpg';
 import resumeE from '../img/resumeE.jpg';
 function ImageSection() {
     return (
@@ -12,26 +10,13 @@ function ImageSection() {
                 <img src={resume} alt=""/>
                 <div className="right-content">
                 <h4> <span>Desenvolvedor Full Stack</span></h4>
-                <p className="paragraph">
-                Sou Graduado em Análise e Desenvolvimento de Sistemas e Póps-graduado em Desenvolvimento Full Stack. <br></br>Atualmente estudo React.js, Node.js, React Native, Python.  
-                <p>
-                </p><br></br>
-                <img src={resumeM} alt=""/>
-                <p className="paragraph">
-                Gosto de criar interfaces bonitas para proporcionar uma ótima experiência ao usuário.
-                <p></p>
-                Posso criar sites responsivos que se adaptam a qualquer tela e aplicativos nativos IOS e Android.
-                </p>
-                </p>  
                 </div>    
-
                 <div className="left-content"> 
-                <img src={resumeD} alt=""/>
                 <p>
                 <br></br>
-                Criei vários projetos React.js e React Native usando Node.js no Backeand.
+                Já criei vários projetos <span>React.js</span> e <span>React Native</span> usando <span>Node.js</span> no Backeand.
                 <p></p>
-                Posso criar e manipular bancos de dados como MongoDb e MYSql. 
+                Posso criar e manipular bancos de dados como <span>MongoDb</span> e <span>MYSql</span>. 
                 </p>
                 </div>
                 <br></br>
@@ -55,7 +40,7 @@ function ImageSection() {
                     </div>
                     <div className="info">
                         <p>: Márcio Sella Bahia</p>
-                        <p>: 46</p>
+                        <p>: 47</p>
                         <p>: Brasileiro </p>
                         <p>: Portuguese, English </p>
                         <p>: Brasil </p>
